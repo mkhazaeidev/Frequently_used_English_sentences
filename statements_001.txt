@@ -8,7 +8,7 @@ Frequently used English sentences part 001
 	e. I believe in what I am. -> به چیزی که هستم باور دارم
 	f. believe on god. -> به خدا اعتقاد داشته باش
 	g. believe as such as I do. -> به اندازه من باور داشته باش
-	h. believe what your heart tells you. -> آنچه را که قلبت به تو می گوید باور کن
+    h. believe what your heart tells you. -> آنچه را که قلبت به تو می گوید باور کن
 
 2. call me back. -> بهم زنگ بزن
 	a. call back later. -> بعدا زنگ بزن
