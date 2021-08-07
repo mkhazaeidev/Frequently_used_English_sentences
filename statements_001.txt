@@ -18,4 +18,5 @@ Frequently used English sentences part 001
     a. as soon as you make the payment -> به محض اینکه پرداخت را انجام دهید
     b. as soon as well -> به همین زودی
     c. as soon as they get up -> به محض بلند شدن آنها
+    d. as soon as the rain stop -> به محض توقف باران
     
