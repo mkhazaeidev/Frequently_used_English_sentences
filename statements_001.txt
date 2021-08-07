@@ -22,7 +22,6 @@ Frequently used English sentences part 001
 
 4. give me a hug -> بغلم کن
     a. give me a break -> بهم استراحت بده
-    b. give up smoking -> ترک کردن سیگار
+    b. give up smoking -> سیگار را ترک کن
     c. give up on -> تسلیم شدن
     d. do not give up on your dreams -> رویاهات رو رها نکن
-    
