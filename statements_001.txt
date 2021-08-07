@@ -11,5 +11,5 @@ Frequently used English sentences part 001
     h. believe what your heart tells you. -> آنچه را که قلبت به تو می گوید باور کن
 
 2. call me back. -> بهم زنگ بزن
-	a. call back later. -> بعدا زنگ بزن
-	b. call me back when you have time. -> وقت کردی بهم زنگ بزن
+    a. call back later. -> بعدا زنگ بزن
+    b. call me back when you have time. -> وقت کردی بهم زنگ بزن
