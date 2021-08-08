@@ -8,3 +8,4 @@ Update Date: 00/00/00
 4. In this moment of time -> در این لحظه از زمان
 5. Unexpectedly -> بر خلاف انتظار
 6. Assuming -> با فرض اینکه
+7. By default -> به طور پیش فرض
