@@ -16,7 +16,8 @@ Update Date: 00/00/00
     h. I am getting excited -> دارم هیجام زده میشم
     i. I am getting frustrated -> دارم ناامید میشم
     j. I am getting nervous -> دارپ عصبی میشم
-    h. I am getting married soon -> به زودی ازدواج میکنم
+    k. I am getting married soon -> به زودی ازدواج میکنم
+    l. I am getting worse -> دارم لدتر میشم
     
 
     
