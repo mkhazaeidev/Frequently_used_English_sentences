@@ -2,13 +2,82 @@ Idioms and Phrases
 Creation Date: 1400/05/18
 Update Date: 00/00/00
 
-1. Generally -> در حالت کلی
-2. Naturally -> طبیعتا
-3. as soon as -> به محض
-4. In this moment of time -> در این لحظه از زمان
-5. Unexpectedly -> بر خلاف انتظار
-6. Assuming -> با فرض اینکه
-7. By default -> به طور پیش فرض
-8. 
-9. 
-10. 
+1. Generally        -> در حالت کلی
+    -
+
+2. Naturally        -> طبیعتا
+    -
+    
+3. as soon as       -> به محض
+    -
+
+4. notably          -> به ویژه
+    -
+
+5. Unexpectedly     -> بر خلاف انتظار
+    -
+
+6. Assuming         -> با فرض اینکه
+    -
+
+7. By default       -> به طور پیش فرض
+    -
+
+8. progressively    -> به تدریج
+    -
+
+9. by the end of    -> در پایان
+    -
+
+10. from scratch    -> از ابتدا
+    -
+
+11. abstract away   -> از بین بردن
+    -
+12. truly           -> براستی
+    -
+
+13. in particular   -> به خصوص
+    -
+
+14. since           -> از آنجا که
+    -
+
+15. since then      -> از آن به بعد
+    -
+
+16. regularly       -> به طور منظم
+    -
+
+17. Throughout      -> سراسر، در طول، در کل
+    -
+
+18. thorough        -> کامل، تمام و کمال
+    -
+
+19. thoroughly      -> کاملا
+    -
+
+20. properly        -> به درستی
+    -
+
+21. over the years  -> در طول سالها
+    -
+
+22. among           -> در میان
+    -
+
+23. in contrast     -> در مقابل
+    -
+
+24. most notably    -> قابل توجه ترین
+    -
+
+25. As of 2019      -> از سال ۲۰۱۹
+    -
+
+26. across from the -> روبروی
+    -
+
+27. In this moment of time   -> در این لحظه از زمان
+    -
