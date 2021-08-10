@@ -1,39 +1,54 @@
 Idioms and Phrases
 Creation Date: 1400/05/18
-Update Date: 00/00/00
+Update Date: 1400/05/19
 
 1. Generally        -> در حالت کلی
-    -
+    - It is generally accepted/agreed/believed that…
+        -> به طور کلی پذیرفته می شود/موافقت می شود/اعتقاد بر این است که
+    - The plan was generally welcomed.
+        -> این طرح به طور کلی مورد استقبال قرار گرفت
 
 2. Naturally        -> طبیعتا
-    -
+    - Naturally, I get upset when things go wrong.
+        -> طبیعتاً وقتی اوضاع خراب می شود ناراحت می شوم
+
     
 3. as soon as       -> به محض
-    -
+    - We will get your order to you as soon as possible.
+        -> ما سفارش شما را در اسرع وقت به شما می رسانیم
 
-4. notably          -> به ویژه
-    -
+4. Notably          -> به ویژه
+    - The house has many drawbacks, most notably its price.
+        -> این خانه دارای معایب زیادی است به ویژه قیمت آن
 
-5. Unexpectedly     -> بر خلاف انتظار
-    -
+5. Unexpectedly     -> بر خلاف انتظار، غیر منتظره
+    - It is unexpected result.
+        -> نتیجه غیر منتظره است
 
 6. Assuming         -> با فرض اینکه
-    -
+    - I hope to go to college next year, assuming that I pass my exams.
+        -> امیدوارم سال آینده با فرض قبولی در امتحانات به دانشگاه بروم
 
 7. By default       -> به طور پیش فرض
-    -
+    - I became a teacher by default rather than by design.
+        -> من به طور پیش فرض به جای طراحی ، معلم شدم.
+
+    - rather than -> به جای
 
 8. progressively    -> به تدریج
-    -
+    - The pain get progressively worse.
+        -> درد به تدریج بدتر می شود
 
 9. by the end of    -> در پایان
-    -
+    - by the end of the day.
+        -> در پایان روز
 
 10. from scratch    -> از ابتدا
     -
 
 11. abstract away   -> از بین بردن
     -
+
 12. truly           -> براستی
     -
 
