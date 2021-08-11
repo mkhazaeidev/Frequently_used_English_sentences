@@ -98,3 +98,5 @@ Update Date: 1400/05/19
     -
     
 28. In some ways -> از جهاتی
+
+29. Further -> به علاوه
