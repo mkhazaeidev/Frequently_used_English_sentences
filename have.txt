@@ -11,3 +11,8 @@ I have join the meeting -> به جلسه ملحق شدم
 I have join the group -> به گروه پیوستم
 I have lost -> من باختم
 I have somthing to tell you -> یه چیزی میخوام بهت بگم
+
+I have a sore throat -> گلوم درد میکنه
+I have a cold -> سرما خوردم
+
+
